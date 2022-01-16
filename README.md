@@ -14,7 +14,7 @@ Masked dataset is preprocessed with [MaskTheFace pipline](https://github.com/aqe
 1. [FFHQ dataset](https://github.com/NVlabs/ffhq-dataset)
 2. [celebA dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 3. [AAFD dataset](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
-4. self_crawler[celebA_asia dataset](https://drive.google.com/drive/folders/1NYPpWiEJAwNP7Map7bW905JKzq7gU9aO?usp=sharing)
+4. [celebA_asia dataset](https://drive.google.com/drive/folders/1NYPpWiEJAwNP7Map7bW905JKzq7gU9aO?usp=sharing)
 
 
 ### Result training with FFHQ dataset
