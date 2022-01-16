@@ -1,6 +1,7 @@
 # StyleGAN-Unmasking-Task
-Trying to use pSp Encoder and e4e encoder to deal with unmasking task. [Paper](https://drive.google.com/file/d/1i_IxYzM7uGDYdEn3DlNd6glq5hUnJHCQ/view?usp=sharing)
-
+Trying to use pSp Encoder and e4e encoder to deal with unmasking task.
+[Paper](https://drive.google.com/file/d/1hECc49hFsTVQfZwZ1sCX3cW8zvYZFS-K/view?usp=sharing) &
+[Powerpoint](https://docs.google.com/presentation/d/10xsvNliIboS3RShdMURjmdhW6ZfXcjC-/edit?usp=sharing&ouid=111174497193861703854&rtpof=true&sd=true)
 ### Usage
 1. Real_time_openCV.ipynb is used to do face recognition with pretrained AAFD_e4e model
 2. Validation folder is used to validate the trained model
