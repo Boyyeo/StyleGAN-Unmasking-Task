@@ -23,6 +23,8 @@ Masked dataset is preprocessed with [MaskTheFace pipline](https://github.com/aqe
 ### Result training with AAFD dataset
 ![e4e and psp result](images/AAFD.jpg?raw=true)
 
+### Result training with celebA_asia dataset (failure case due to low resolution of dataset)
+![e4e and psp result](images/celebA_asia.jpg?raw=true)
 
 
 
