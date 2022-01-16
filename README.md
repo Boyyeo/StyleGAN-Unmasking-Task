@@ -1,4 +1,4 @@
-# StyleGAN-Unmasking-Task-
+# StyleGAN-Unmasking-Task
 Trying to use pSp Encoder and e4e encoder to deal with unmasking task
 
 ### Usage
